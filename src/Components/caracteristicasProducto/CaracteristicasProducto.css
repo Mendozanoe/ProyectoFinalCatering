@@ -1,0 +1,15 @@
+
+.reserva-custom-input {
+    background-color: blue !important;
+}
+.producto-card-body{
+    background-color:#e5d9b6;
+    margin: 5px;
+    border-radius:5px ;
+}
+
+.producto-card{
+    background-color: #CBB26A;
+    border-radius: 2%;
+    
+}
